@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "Asap-Regular";
+    src: url("./assets/fonts/Asap-Regular.woff2") format("woff2"),
+            url("./assets/fonts/Asap-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "LucidaSans-Italic";
+    src: url("./assets/fonts/LucidaSans-Italic.woff2") format("woff2"),
+    url("./assets/fonts/LucidaSans-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Open-Sans";
+    src: url("./assets/fonts/open-sans/opensans.woff2") format("woff2"),
+    url("./assets/fonts/open-sans/opensans.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "PTSans-Regular";
+    src: url("./assets/fonts/PTSans-Regular.woff2") format("woff2"),
+    url("./assets/fonts/PTSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SegoeUI";
+    src: url("./assets/fonts/SegoeUI.woff2") format("woff2"),
+    url("./assets/fonts/SegoeUI.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SegoeUI-Bold";
+    src: url("./assets/fonts/SegoeUI-Bold.woff2") format("woff2"),
+    url("./assets/fonts/SegoeUI-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SegoeUI-Light";
+    src: url("./assets/fonts/SegoeUI-Light.woff2") format("woff2"),
+    url("./assets/fonts/SegoeUI-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SegoeWP";
+    src: url("./assets/fonts/SegoeWP.woff2") format("woff2"),
+    url("./assets/fonts/SegoeWP.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SegoeWP-Light";
+    src: url("./assets/fonts/SegoeWP-Light.woff2") format("woff2"),
+    url("./assets/fonts/SegoeWP-Light.ttf") format("truetype");
+}
